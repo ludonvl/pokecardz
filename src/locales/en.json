@@ -1,5 +1,5 @@
 {
-  "appname": "POKECARD",
+  "appname": "POKECARDZ",
   "menu-link-1": "List of cards",
   "menu-link-2": "Donate",
   "home-subtitle": "Want some new Pokémon cards ?",
@@ -10,5 +10,5 @@
   "build-title": "Available soon",
   "build-description": "The platform is building...",
   "build-action": "Talk together",
-  "build-mail-subject": "POKECARD: Talk together !"
+  "build-mail-subject": "POKECARDZ: Talk together !"
 }

@@ -1,5 +1,5 @@
 {
-    "appname": "POKECARD",
+    "appname": "POKECARDZ",
     "menu-link-1": "Listes des cartes",
     "menu-link-2": "Donation",
     "home-subtitle": "Envie de nouvelles cartes Pokémon ?",
@@ -10,5 +10,5 @@
     "build-title": "Bientôt disponible",
     "build-description": "La plateforme est en pleine construction...",
     "build-action": "Discutons-en",
-    "build-mail-subject": "POKECARD: Discutons ensemble !"
+    "build-mail-subject": "POKECARDZ: Discutons ensemble !"
 }
