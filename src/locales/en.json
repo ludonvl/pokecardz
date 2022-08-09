@@ -2,6 +2,13 @@
   "appname": "POKECARD",
   "menu-link-1": "List of cards",
   "menu-link-2": "Donate",
+  "home-subtitle": "Want some new Pokémon cards ?",
+  "home-main": "The second-hand Pokémon cards buying platform",
   "home-title-1": "Some examples",
-  "loading": "Loading"
+  "loading": "Loading",
+  "search-placeholder": "Search by name, type or collection",
+  "build-title": "Available soon",
+  "build-description": "The platform is building...",
+  "build-action": "Talk together",
+  "build-mail-subject": "POKECARD: Talk together !"
 }

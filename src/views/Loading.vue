@@ -31,7 +31,12 @@ export default {
     mounted() {
         setInterval(() => {
             if (this.percent < 100) {
-                this.percent += 1
+                this.percent += 10
+
+                // tmp to delete
+                if (this.percent === 100) {
+                    this.$emit('on-loaded')
+                }
             }
         }, 100)
     },

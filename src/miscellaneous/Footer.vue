@@ -27,7 +27,7 @@
             </div>
             </div>
         </div>
-        <a href="https://www.freepik.com/free-photos-vectors/background" class="text-gray-500">Use TCG pokemon API for all data.</a>
+        <a class="text-gray-500">Use TCG pokemon API for all data.</a>
         </footer>
     </div>
 </template>

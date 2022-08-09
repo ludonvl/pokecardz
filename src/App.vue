@@ -6,7 +6,7 @@
       <router-view/>
       <Footer />
     </div>
-    <Loading v-show="showLoading" />
+    <Loading v-show="showLoading" @on-loaded="hideLoading" />
   </div>
 </template>
 <script>
@@ -30,6 +30,9 @@ export default {
       } else {
         this.$store.dispatch('setDarkMode', false)
       }
+    },
+    hideLoading() {
+      this.showLoading = !this.showLoading;
     }
   },
 

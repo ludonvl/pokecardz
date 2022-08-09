@@ -2,6 +2,13 @@
     "appname": "POKECARD",
     "menu-link-1": "Listes des cartes",
     "menu-link-2": "Donation",
+    "home-subtitle": "Envie de nouvelles cartes Pokémon ?",
+    "home-main": "La plateforme d'achat de cartes Pokémon d'occasion",
     "home-title-1": "Quelques exemples",
-    "loading": "Chargement"
+    "loading": "Chargement",
+    "search-placeholder": "Rechercher par nom, type ou collection",
+    "build-title": "Bientôt disponible",
+    "build-description": "La plateforme est en pleine construction...",
+    "build-action": "Discutons-en",
+    "build-mail-subject": "POKECARD: Discutons ensemble !"
 }
